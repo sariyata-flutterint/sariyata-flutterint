@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sariyata-flutterint
-- 🍒 Software engineer at Cayetano Gaming, part of Flutter International
+- 🍒 Software engineer at Flutter Studios
 
 <!---
 sariyata-flutterint/sariyata-flutterint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
